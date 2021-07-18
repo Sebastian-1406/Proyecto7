@@ -15,6 +15,7 @@
 
 .header__fondo{
 	background-image: url('../images/bg-header-mobile.png');
+	background-size: cover;
 	height: 300px;
 	display: inline-flex;
 	align-items: center;
